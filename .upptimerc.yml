@@ -7,7 +7,7 @@ sites:
     url: https://feedg.hukoubook.com/.well-known/did.json
     method: GET
   - name: 个人数据服务
-    url: https://network.hukoubook.com/.well-known/did.json
+    url: https://network.hukoubook.com/xrpc/_health
     method: GET
   - name: 身份id服务
     url: https://smite.hukoubook.com/.well-known/did.json
