@@ -1,7 +1,7 @@
-url: https://feedg.hukoubook.com/.well-known/did.json
+url: https://network.hukoubook.com/xrpc/_health
 status: up
 code: 200
-responseTime: 8582
-lastUpdated: 2024-12-03T01:53:29.677Z
+responseTime: 190
+lastUpdated: 2024-12-03T01:53:30.051Z
 startTime: 2024-12-02T20:11:24.415Z
 generator: Upptime <https://github.com/upptime/upptime>
