@@ -21,9 +21,9 @@ status-website:
   logoUrl: https://go.smitechow.com/raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   apiBaseUrl: https://go.smitechow.com/+x/api.github.com
   userContentBaseUrl: https://go.smitechow.com/+x/raw.githubusercontent.com
-  name: 监控状态
+  name: Hukoubook Status
   introTitle: "hukoubook.com"
-  introMessage: 监控所有服务状态
+  introMessage: 当前所有服务状态
   navbar:
     - title: Status
       href: /
