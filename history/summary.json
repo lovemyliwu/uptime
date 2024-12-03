@@ -4,19 +4,19 @@
     "url": "https://feedg.hukoubook.com/.well-known/did.json",
     "icon": "https://icons.duckduckgo.com/ip3/feedg.hukoubook.com.ico",
     "slug": "feedgenerator",
-    "status": "up",
-    "uptime": "97.72%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "97.72%",
-    "time": 4811,
-    "timeDay": 4811,
-    "timeWeek": 4811,
-    "timeMonth": 4811,
-    "timeYear": 4811,
+    "status": "down",
+    "uptime": "98.52%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
+    "time": 5001,
+    "timeDay": 5001,
+    "timeWeek": 5001,
+    "timeMonth": 5001,
+    "timeYear": 5001,
     "dailyMinutesDown": {
-      "2024-12-03": 19
+      "2024-12-03": 15
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 216,
-    "timeWeek": 216,
-    "timeMonth": 216,
-    "timeYear": 216,
+    "time": 218,
+    "timeDay": 218,
+    "timeWeek": 218,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
