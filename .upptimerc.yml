@@ -22,7 +22,7 @@ status-website:
   apiBaseUrl: https://go.smitechow.com/+x/api.github.com
   userContentBaseUrl: https://go.smitechow.com/+x/raw.githubusercontent.com
   name: Hukoubook Status
-  introTitle: "hukoubook.com"
+  introTitle: "Hukoubook"
   introMessage: 当前所有服务状态
   navbar:
     - title: Status
