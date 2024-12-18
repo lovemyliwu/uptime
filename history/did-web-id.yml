@@ -1,7 +1,7 @@
 url: https://smite.hukoubook.com/.well-known/did.json
-status: up
-code: 200
-responseTime: 145
-lastUpdated: 2024-12-18T08:40:30.526Z
+status: down
+code: 429
+responseTime: 41
+lastUpdated: 2024-12-18T08:45:23.875Z
 startTime: 2024-12-03T01:58:06.850Z
 generator: Upptime <https://github.com/upptime/upptime>
