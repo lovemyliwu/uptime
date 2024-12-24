@@ -1,7 +1,7 @@
 url: https://feedg.hukoubook.com/.well-known/did.json
-status: down
-code: 503
-responseTime: 150
-lastUpdated: 2024-12-24T23:03:03.382Z
+status: up
+code: 200
+responseTime: 3901
+lastUpdated: 2024-12-24T23:06:13.351Z
 startTime: 2024-12-03T01:58:02.435Z
 generator: Upptime <https://github.com/upptime/upptime>
