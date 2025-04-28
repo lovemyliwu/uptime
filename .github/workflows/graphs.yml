@@ -17,7 +17,7 @@
 name: Graphs CI
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 2 * * *"
   repository_dispatch:
     types: [graphs]
   workflow_dispatch:
@@ -32,7 +32,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Generate graphs
-        uses: upptime/uptime-monitor@v1.40.1
+        uses: DistPub/uptime-monitor@v1.40.1
         with:
           command: "graphs"
         env:
