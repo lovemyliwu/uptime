@@ -30,12 +30,23 @@ status-website:
     - title: App
       href: https://app.hukoubook.com
 workflowSchedule:
-  graphs: "0 0 * * *"
+  # prepare data
+
+  # interval execute by cf trigger
   responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
+  # check status, manage issue
   uptime: "*/10 * * * *"
+
+  # summary for readme
+  summary: "0 1 * * *"
+  graphs: "0 2 * * *"
+
+  # site useless
+  staticSite: "0 3 * * *"
+  
+  # update work flow file
+  updateTemplate: "0 0 * * *"
+  # useless
+  updates: "0 3 * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
