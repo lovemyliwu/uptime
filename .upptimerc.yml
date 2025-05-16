@@ -29,6 +29,8 @@ status-website:
       href: /
     - title: App
       href: https://app.hukoubook.com
+    - title: EBTP Writer
+      href: https://stackedit.hukoubook.com
 workflowSchedule:
   # prepare data
 
