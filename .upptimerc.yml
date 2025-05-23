@@ -13,7 +13,7 @@ sites:
     url: https://smite.hukoubook.com/.well-known/did.json
     method: GET
   - name: bsky_appview/bsky后端服务
-    url: https://api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=did:web:smite.hukoubook.com
+    url: https://api.hukoubook.com/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aweb%3Asmite.hukoubook.com&filter=posts_and_author_threads&includePins=true&limit=30
     method: GET
 
 status-website:
