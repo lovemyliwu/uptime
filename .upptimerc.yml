@@ -12,6 +12,9 @@ sites:
   - name: did:web/身份id服务
     url: https://smite.hukoubook.com/.well-known/did.json
     method: GET
+  - name: bsky_appview/bsky后端服务
+    url: https://api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=did:web:smite.hukoubook.com
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
