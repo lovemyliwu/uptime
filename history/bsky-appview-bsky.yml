@@ -1,7 +1,7 @@
 url: https://api.hukoubook.com/xrpc/app.bsky.feed.getAuthorFeed?actor=did%3Aweb%3Asmite.hukoubook.com&filter=posts_and_author_threads&includePins=true&limit=30
 status: up
 code: 200
-responseTime: 461
-lastUpdated: 2025-05-28T15:51:08.535Z
+responseTime: 392
+lastUpdated: 2025-05-28T16:01:04.457Z
 startTime: 2025-05-23T06:19:33.028Z
 generator: Upptime <https://github.com/upptime/upptime>
