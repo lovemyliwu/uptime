@@ -34,6 +34,8 @@ status-website:
       href: https://app.hukoubook.com
     - title: EBTP Writer
       href: https://stackedit.hukoubook.com
+    - title: PDSls
+      href: https://pdsls.hukoubook.com
 workflowSchedule:
   # prepare data
 
