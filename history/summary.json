@@ -47,19 +47,18 @@
     "url": "https://network.hukoubook.com/xrpc/_health",
     "icon": "https://icons.duckduckgo.com/ip3/network.hukoubook.com.ico",
     "slug": "pds",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 226,
-    "timeDay": 230,
+    "timeDay": 229,
     "timeWeek": 218,
     "timeMonth": 222,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-08-07": 1,
       "2025-04-27": 445,
       "2025-04-26": 1401
     }
